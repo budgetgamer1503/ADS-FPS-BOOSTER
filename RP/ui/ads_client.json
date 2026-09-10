@@ -1,0 +1,268 @@
+{
+  "namespace": "ads",
+
+  "ads_surface": {
+    "type": "image",
+    "texture": "textures/ui/Black",
+    "alpha": 0.78,
+    "size": ["100%c + 10px", "100%c + 8px"]
+  },
+
+  "ads_accent_bar": {
+    "type": "image",
+    "texture": "textures/ui/Black",
+    "alpha": 1.0,
+    "color": "$ads_accent",
+    "size": [2, "100%"]
+  },
+
+  "ads_title": {
+    "type": "label",
+    "text": "ADS CLIENT",
+    "color": "$ads_text",
+    "font_size": "small",
+    "shadow": true
+  },
+
+  "ads_caption": {
+    "type": "label",
+    "text": "FPS OPTIMIZED",
+    "color": "$ads_success",
+    "font_size": "small",
+    "shadow": true
+  },
+
+  "ads_chip_on": {
+    "type": "image",
+    "texture": "textures/ui/Black",
+    "color": "$ads_success",
+    "alpha": 0.18,
+    "size": ["100%c + 8px", 14],
+    "controls": [
+      {
+        "label": {
+          "type": "label",
+          "text": "$ads_chip_text",
+          "color": "$ads_text",
+          "font_size": "small",
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "shadow": true
+        }
+      }
+    ]
+  },
+
+  "ads_chip_off": {
+    "type": "image",
+    "texture": "textures/ui/Black",
+    "color": "$ads_panel",
+    "alpha": 0.92,
+    "size": ["100%c + 8px", 14],
+    "controls": [
+      {
+        "label": {
+          "type": "label",
+          "text": "$ads_chip_text",
+          "color": "$ads_muted",
+          "font_size": "small",
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "shadow": true
+        }
+      }
+    ]
+  },
+
+  "ads_module_row": {
+    "type": "panel",
+    "size": ["100%", 18],
+    "controls": [
+      {
+        "name": {
+          "type": "label",
+          "text": "$ads_module_name",
+          "color": "$ads_text",
+          "font_size": "small",
+          "anchor_from": "left_middle",
+          "anchor_to": "left_middle",
+          "offset": [4, 0]
+        }
+      },
+      {
+        "state@ads.ads_chip_on": {
+          "$ads_chip_text": "ON",
+          "anchor_from": "right_middle",
+          "anchor_to": "right_middle",
+          "offset": [-4, 0]
+        }
+      }
+    ]
+  },
+
+  "ads_module_menu": {
+    "type": "panel",
+    "size": [280, 260],
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "controls": [
+      {
+        "background@ads.ads_surface": {
+          "size": ["100%", "100%"]
+        }
+      },
+      {
+        "accent@ads.ads_accent_bar": {
+          "anchor_from": "left_top",
+          "anchor_to": "left_top"
+        }
+      },
+      {
+        "header": {
+          "type": "panel",
+          "size": ["100%", 42],
+          "controls": [
+            {
+              "title@ads.ads_title": {
+                "anchor_from": "left_middle",
+                "anchor_to": "left_middle",
+                "offset": [18, -5]
+              }
+            },
+            {
+              "caption@ads.ads_caption": {
+                "anchor_from": "left_middle",
+                "anchor_to": "left_middle",
+                "offset": [18, 9]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "separator": {
+          "type": "image",
+          "texture": "textures/ui/Black",
+          "color": "$ads_panel",
+          "alpha": 1.0,
+          "size": ["100% - 20px", 1],
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [0, 42]
+        }
+      },
+      {
+        "module_list": {
+          "type": "stack_panel",
+          "size": ["100% - 24px", "100% - 58px"],
+          "orientation": "vertical",
+          "anchor_from": "top_middle",
+          "anchor_to": "top_middle",
+          "offset": [0, 66],
+          "controls": [
+            {"fullbright@ads.ads_module_row": {"$ads_module_name": "Fullbright"}},
+            {"low_fire@ads.ads_module_row": {"$ads_module_name": "Low Fire"}},
+            {"crosshair@ads.ads_module_row": {"$ads_module_name": "Crosshair"}},
+            {"coords@ads.ads_module_row": {"$ads_module_name": "Coordinates"}},
+            {"keystrokes@ads.ads_module_row": {"$ads_module_name": "Keystrokes"}},
+            {"armor@ads.ads_module_row": {"$ads_module_name": "Armor HUD"}},
+            {"effects@ads.ads_module_row": {"$ads_module_name": "Potion HUD"}},
+            {"fog@ads.ads_module_row": {"$ads_module_name": "Fog"}},
+            {"bobbing@ads.ads_module_row": {"$ads_module_name": "Minimal Bobbing"}},
+            {"particles@ads.ads_module_row": {"$ads_module_name": "Hit Particles"}},
+            {"nametags@ads.ads_module_row": {"$ads_module_name": "Better Nametags"}}
+          ]
+        }
+      }
+    ]
+  },
+
+  "ads_hud_status": {
+    "type": "panel",
+    "size": [112, 44],
+    "anchor_from": "top_right",
+    "anchor_to": "top_right",
+    "offset": [-8, 8],
+    "controls": [
+      {
+        "bg@ads.ads_surface": {
+          "size": ["100%", "100%"]
+        }
+      },
+      {
+        "accent@ads.ads_accent_bar": {
+          "anchor_from": "left_top",
+          "anchor_to": "left_top"
+        }
+      },
+      {
+        "title@ads.ads_title": {
+          "anchor_from": "left_top",
+          "anchor_to": "left_top",
+          "offset": [10, 5]
+        }
+      },
+      {
+        "mode": {
+          "type": "label",
+          "text": "PERFORMANCE",
+          "color": "$ads_muted",
+          "font_size": "small",
+          "anchor_from": "left_top",
+          "anchor_to": "left_top",
+          "offset": [10, 21]
+        }
+      },
+      {
+        "ready": {
+          "type": "label",
+          "text": "OPTIMIZED RP",
+          "color": "$ads_success",
+          "font_size": "small",
+          "anchor_from": "left_top",
+          "anchor_to": "left_top",
+          "offset": [10, 32]
+        }
+      }
+    ]
+  },
+
+  "ads_coordinates": {
+    "type": "image",
+    "texture": "textures/ui/Black",
+    "alpha": 0.72,
+    "size": ["100%c + 12px", "100%c + 8px"],
+    "anchor_from": "top_right",
+    "anchor_to": "top_right",
+    "offset": [-8, 60],
+    "controls": [
+      {
+        "text": {
+          "type": "label",
+          "text": "#text",
+          "color": "$ads_text",
+          "font_size": "small",
+          "shadow": true,
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "bindings": [
+            {
+              "binding_name": "#player_position_text",
+              "binding_name_override": "#text",
+              "binding_condition": "always_when_visible",
+              "binding_type": "global"
+            }
+          ]
+        }
+      }
+    ],
+    "bindings": [
+      {
+        "binding_name": "#player_position_visible",
+        "binding_name_override": "#visible",
+        "binding_condition": "always",
+        "binding_type": "global"
+      }
+    ]
+  }
+}
