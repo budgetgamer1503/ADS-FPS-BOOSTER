@@ -1,0 +1,40 @@
+{
+	"type": "minecraftBedrock",
+	"name": "AD FPS BOOSTER",
+	"namespace": "bridge",
+	"authors": [
+		"BUDGETGAMER1503"
+	],
+	"targetVersion": "1.21.0",
+	"description": "AD OPTIFINE - The Ultimate FPS Booster by §cAWERSOMEDUO",
+	"experimentalGameplay": {
+		"enableGameTestFramework": false
+	},
+	"bdsProject": false,
+	"packs": {
+		"resourcePack": "./RP"
+	},
+	"worlds": [
+		"./worlds/*"
+	],
+	"compiler": {
+		"plugins": [
+			"generatorScripts",
+			"typeScript",
+			"entityIdentifierAlias",
+			"customEntityComponents",
+			"customItemComponents",
+			"customBlockComponents",
+			"customCommands",
+			"moLang",
+			"formatVersionCorrection",
+			[
+				"simpleRewrite",
+				{
+					"packName": "ADS FPS"
+				}
+			]
+		]
+	},
+	"bridge": {}
+}

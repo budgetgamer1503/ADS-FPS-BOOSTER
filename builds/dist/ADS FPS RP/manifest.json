@@ -1,0 +1,15 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "AD Fps Booster V2",
+        "description": "AD OPTIFINE - The Ultimate FPS Booster",
+        "uuid": "d7b1c8d3-5f4a-4e6e-b3d5-91f3f708a9e2",
+        "version": [2, 1, 0],
+        "min_engine_version": [1, 26, 0],
+        "author": "BUDGETGAMER1503",
+        "license": "All Rights Reserved",
+        "in_game_author": "BUDGETGAMER1503"
+    },
+    "modules": [{"type": "resources", "uuid": "f29dc5c0-5b1e-4d37-a17b-5b9b3d57e9e1", "version": [2, 0, 0], "description": "Resource Pack for AD OptiFine"}],
+    "capabilities": ["pbr"]
+}

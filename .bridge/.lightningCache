@@ -1,0 +1,196 @@
+$formatVersion: 1
+#unknown
+projects/ADS FPS/RP/License.txt|1775824023
+projects/ADS FPS/RP/pack_icon.png|1755326090
+#biomesClient
+projects/ADS FPS/RP/biomes_client.json|1775824010|{"fogIdentifier":["ads:fog"]}
+#material
+#clientManifest
+projects/ADS FPS/RP/manifest.json|1783741524|{"uuid":["d7b1c8d3-5f4a-4e6e-b3d5-91f3f708a9e2"]}
+#clientBlock
+projects/ADS FPS/RP/blocks.json|1775824012|{"identifier":["crimson_nylium","warped_nylium","air","stone","dirt","cobblestone","planks","sapling","bedrock","flowing_water","water","flowing_lava","lava","sand","gravel","gold_ore","iron_ore","coal_ore","log","stripped_oak_log","stripped_birch_log","stripped_dark_oak_log","stripped_acacia_log","stripped_jungle_log","stripped_spruce_log","leaves","sponge","glass","lapis_ore","lapis_block","dispenser","sandstone","noteblock","jukebox","bed","golden_rail","detector_rail","sticky_piston","web","tallgrass","seagrass","coral","coral_fan","coral_fan_dead","coral_fan_hang","coral_fan_hang2","coral_fan_hang3","deadbush","piston","pistonArmCollision","stickyPistonArmCollision","wool","yellow_flower","red_flower","brown_mushroom","red_mushroom","gold_block","iron_block","double_stone_slab","stone_slab","coral_block","brick_block","tnt","bookshelf","mossy_cobblestone","obsidian","torch","mob_spawner","oak_stairs","chest","redstone_wire","diamond_ore","diamond_block","crafting_table","wheat","farmland","furnace","lit_furnace","standing_sign","wooden_door","ladder","rail","wall_sign","lever","stone_pressure_plate","iron_door","wooden_pressure_plate","acacia_pressure_plate","birch_pressure_plate","dark_oak_pressure_plate","jungle_pressure_plate","spruce_pressure_plate","redstone_ore","lit_redstone_ore","unlit_redstone_torch","redstone_torch","stone_button","snow_layer","ice","snow","cactus","clay","reeds","kelp","dried_kelp_block","fence","nether_brick_fence","pumpkin","carved_pumpkin","netherrack","magma","soul_sand","glowstone","portal","lit_pumpkin","cake","unpowered_repeater","powered_repeater","invisibleBedrock","barrier","trapdoor","acacia_trapdoor","birch_trapdoor","dark_oak_trapdoor","jungle_trapdoor","spruce_trapdoor","monster_egg","stonebrick","brown_mushroom_block","red_mushroom_block","iron_bars","glass_pane","melon_block","pumpkin_stem","melon_stem","vine","fence_gate","brick_stairs","mycelium","waterlily","brewing_stand","cauldron","end_portal_frame","end_portal","end_gateway","end_stone","end_rod","end_bricks","redstone_lamp","lit_redstone_lamp","cocoa","emerald_ore","emerald_block","spruce_stairs","birch_stairs","jungle_stairs","beacon","conduit","wooden_button","acacia_button","birch_button","dark_oak_button","jungle_button","spruce_button","stone_brick_stairs","nether_brick","nether_brick_stairs","red_nether_brick","nether_wart","nether_wart_block","enchanting_table","dropper","activator_rail","sandstone_stairs","tripwire_hook","tripWire","cobblestone_wall","flower_pot","carrots","potatoes","skull","anvil","trapped_chest","light_weighted_pressure_plate","heavy_weighted_pressure_plate","unpowered_comparator","powered_comparator","daylight_detector","redstone_block","structure_block","jigsaw","structure_void","quartz_ore","hopper","bone_block","quartz_block","quartz_stairs","purpur_block","purpur_stairs","chorus_plant","chorus_flower","double_wooden_slab","wooden_slab","stained_hardened_clay","leaves2","log2","acacia_stairs","dark_oak_stairs","slime","iron_trapdoor","hay_block","carpet","hardened_clay","coal_block","packed_ice","blue_ice","dragon_egg","double_plant","daylight_detector_inverted","red_sandstone","red_sandstone_stairs","double_stone_slab2","stone_slab2","double_stone_slab3","stone_slab3","double_stone_slab4","stone_slab4","spruce_fence_gate","birch_fence_gate","jungle_fence_gate","dark_oak_fence_gate","acacia_fence_gate","spruce_door","birch_door","jungle_door","acacia_door","dark_oak_door","grass_path","frame","podzol","beetroot","stonecutter","stonecutter_block","glowingobsidian","netherreactor","info_update","info_update2","movingBlock","observer","reserved6","fire","prismarine","seaLantern","sea_pickle","turtle_egg","ender_chest","stained_glass","stained_glass_pane","shulker_box","undyed_shulker_box","command_block","repeating_command_block","chain_command_block","concrete","concretePowder","black_glazed_terracotta","blue_glazed_terracotta","brown_glazed_terracotta","cyan_glazed_terracotta","gray_glazed_terracotta","green_glazed_terracotta","light_blue_glazed_terracotta","lime_glazed_terracotta","magenta_glazed_terracotta","orange_glazed_terracotta","pink_glazed_terracotta","purple_glazed_terracotta","red_glazed_terracotta","silver_glazed_terracotta","white_glazed_terracotta","yellow_glazed_terracotta","frosted_ice","standing_banner","wall_banner","prismarine_stairs","dark_prismarine_stairs","prismarine_bricks_stairs","bubble_column","bamboo","bamboo_sapling","scaffolding","granite_stairs","andesite_stairs","diorite_stairs","polished_granite_stairs","polished_andesite_stairs","polished_diorite_stairs","mossy_stone_brick_stairs","smooth_red_sandstone_stairs","smooth_sandstone_stairs","end_brick_stairs","mossy_cobblestone_stairs","smooth_stone","red_nether_brick_stairs","smooth_quartz_stairs","spruce_wall_sign","spruce_standing_sign","birch_wall_sign","birch_standing_sign","jungle_wall_sign","jungle_standing_sign","acacia_wall_sign","acacia_standing_sign","darkoak_wall_sign","darkoak_standing_sign","barrel","smithing_table","smoker","lit_smoker","blast_furnace","lit_blast_furnace","lantern","lava_cauldron","grindstone","bell","cartography_table","fletching_table","campfire","camera","loom","lectern","wood","sweet_berry_bush","composter","wither_rose","light_block","allow","deny","border_block"]}
+#texture
+projects/ADS FPS/RP/textures/entity/shield.png|1755326090
+projects/ADS FPS/RP/textures/items/b.png|1755326090
+projects/ADS FPS/RP/textures/items/buc.png|1755326090
+projects/ADS FPS/RP/textures/items/buck.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_cod.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_salmon.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_pufferfish.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_tropical.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_water.png|1755326090
+projects/ADS FPS/RP/textures/misc/enchanted_item_glint.png|1755326090
+projects/ADS FPS/RP/textures/misc/shadow.png|1755326090
+projects/ADS FPS/RP/textures/misc/vignette.png|1755326090
+projects/ADS FPS/RP/textures/items/bucket_ety.png|1755326090
+projects/ADS FPS/RP/textures/particle/explosion.png|1755326090
+projects/ADS FPS/RP/textures/particle/enchanting_table_particles.png|1755326090
+projects/ADS FPS/RP/textures/misc/pumpkinblur.png|1755326090
+projects/ADS FPS/RP/textures/particle/nothing.png|1755326090
+projects/ADS FPS/RP/textures/blocks/acacia_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/azalea_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/birch_leaves.png|315513000
+projects/ADS FPS/RP/textures/particle/particles.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_a.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_inner_b.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_b.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_b.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_c.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_c.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_d.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_e.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_d.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_g.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_inner_a.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_a.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_c.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_b.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_h.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_outer_f.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_a.png|1755326090
+projects/ADS FPS/RP/textures/blocks/cherry_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/dark_oak_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/flowering_azalea_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/fire_0.png|1755326090
+projects/ADS FPS/RP/textures/blocks/fire_1.png|1755326090
+projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_d.png|1755326090
+projects/ADS FPS/RP/textures/blocks/jungle_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/mangrove_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/oak_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/soul_fire_0.png|1755326090
+projects/ADS FPS/RP/textures/blocks/pale_oak_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/seagrass.png|1757249420
+projects/ADS FPS/RP/textures/blocks/soul_fire_1.png|1755326090
+projects/ADS FPS/RP/textures/blocks/spruce_leaves.png|315513000
+projects/ADS FPS/RP/textures/blocks/tallgrass.png|1755326090
+#terrainTexture
+projects/ADS FPS/RP/textures/terrain_texture.json|1775739965
+#fog
+projects/ADS FPS/RP/fogs/ads_fog_settings.json|1775571085|{"identifier":["ads:fog"]}
+#renderController
+projects/ADS FPS/RP/render_controllers/experience_orb.render_controllers.json|1775571090|{"identifier":["controller.render.experience_orb"]}
+#geometry
+projects/ADS FPS/RP/models/blocks/crop_flat.geo.json|1773217186|{"identifier":["geometry.crop_flat"],"bone":["crop"]}
+projects/ADS FPS/RP/models/blocks/cube_bottom_top_inner_faces.geo.json|1763210581|{"identifier":["geometry.cube_bottom_top_inner_faces"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/flower_pot.geo.json|1763210502|{"identifier":["geometry.flower_pot"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/flower_pot_cross_emissive.geo.json|1763210470|{"identifier":["geometry.flower_pot_cross_emissive"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/flower_pot_cross.geo.json|1763210487|{"identifier":["geometry.flower_pot_cross"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/hopper_side.geo.json|1763210419|{"identifier":["geometry.hopper_side"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/heavy_core.geo.json|1763210453|{"identifier":["geometry.heavy_core"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/hopper.geo.json|1770369840|{"identifier":["geometry.hopper"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/mangrove_propagule_hanging_0.geo.json|1763210351|{"identifier":["geometry.mangrove_propagule_hanging_0"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/mangrove_propagule_hanging_2.geo.json|1763210321|{"identifier":["geometry.mangrove_propagule_hanging_2"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/lightning_rod_on.geo.json|1763210368|{"identifier":["geometry.lightning_rod_on"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/inner_stairs.geo.json|1763210403|{"identifier":["geometry.inner_stairs"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/lightning_rod.geo.json|1763210383|{"identifier":["geometry.lightning_rod"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_cake_with_candle.geo.json|1763209681|{"identifier":["geometry.template_cake_with_candle"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_hanging_lantern.geo.json|1763209539|{"identifier":["geometry.template_hanging_lantern"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/mangrove_propagule_hanging_4.geo.json|1763210286|{"identifier":["geometry.mangrove_propagule_hanging_4"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/stairs.geo.json|1763209727|{"identifier":["geometry.stairs"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_chorus_flower.geo.json|1763209576|{"identifier":["geometry.template_chorus_flower"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_anvil.geo.json|1763209702|{"identifier":["geometry.template_anvil"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/potted_mangrove_propagule.geo.json|1763209762|{"identifier":["geometry.potted_mangrove_propagule"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_item_frame_map.geo.json|1763209480|{"identifier":["geometry.template_item_frame_map"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_vault.geo.json|1763210111|{"identifier":["geometry.template_vault"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_item_frame.geo.json|1763209500|{"identifier":["geometry.template_item_frame"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_cauldron_level2.geo.json|1763209611|{"identifier":["geometry.template_cauldron_level2"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_cauldron_full.geo.json|1763209660|{"identifier":["geometry.template_cauldron_full"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_cauldron_level1.geo.json|1763209627|{"identifier":["geometry.template_cauldron_level1"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/template_potted_azalea_bush.geo.json|1763209459|{"identifier":["geometry.template_potted_azalea_bush"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/tinted_flower_pot_cross.geo.json|1763210097|{"identifier":["geometry.tinted_flower_pot_cross"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/mangrove_propagule_hanging_3.geo.json|1763210302|{"identifier":["geometry.mangrove_propagule_hanging_3"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/mangrove_propagule_hanging_1.geo.json|1763210335|{"identifier":["geometry.mangrove_propagule_hanging_1"],"bone":["bone"]}
+projects/ADS FPS/RP/models/blocks/potted_bamboo.geo.json|1763209790|{"identifier":["geometry.potted_bamboo"],"bone":["bone"]}
+#particle
+projects/ADS FPS/RP/particles/dragon_death_explosion.json|1758360727|{"identifier":["minecraft:dragon_death_explosion_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/explosion.png"]}
+projects/ADS FPS/RP/particles/bleach.json|1766483894|{"identifier":["minecraft:bleach"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/endrod.json|1758360737|{"identifier":["minecraft:endrod"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/bubble_column_bubble.json|1766483903|{"identifier":["minecraft:bubble_column_bubble"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_bubble_manual.json|1766483883|{"identifier":["minecraft:basic_bubble_particle_manual"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/explosion_cauldron.json|1757249412|{"identifier":["minecraft:cauldron_explosion_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/end_chest.json|1758360735|{"identifier":["minecraft:end_chest"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_flame.json|1758360690|{"identifier":["minecraft:basic_flame_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_red_sand.json|1758360752|{"identifier":["minecraft:falling_dust_red_sand_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/balloon_gas.json|1770369848|{"identifier":["minecraft:balloon_gas_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/colored_flame.json|1758360715|{"identifier":["minecraft:colored_flame_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/fish_hook.json|1758360764|{"identifier":["minecraft:fish_hook_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_portal.json|1766483890|{"identifier":["minecraft:basic_portal_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_scaffolding.json|1758360760|{"identifier":["minecraft:falling_dust_scaffolding_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/dragon_breath_lingering.json|1766483914|{"identifier":["minecraft:dragon_breath_lingering"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/cauldron_bubble.json|1758360710|{"identifier":["minecraft:cauldron_bubble_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/huge_explosion_level.json|1758360781|{"identifier":["minecraft:huge_explosion_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/explosion.png"]}
+projects/ADS FPS/RP/particles/crop_growth.json|1758360717|{"identifier":["minecraft:crop_growth_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/eye_of_ender_bubble.json|1758360743|{"identifier":["minecraft:eye_of_ender_bubble_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/fish_pos.json|1758360766|{"identifier":["minecraft:fish_pos_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust.json|1758360763|{"identifier":["minecraft:falling_dust"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_crit.json|1766483888|{"identifier":["minecraft:basic_crit_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_gravel.json|1758360751|{"identifier":["minecraft:falling_dust_gravel_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/lava_drip.json|1758360791|{"identifier":["minecraft:lava_drip_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/guardian_attack.json|1758360768|{"identifier":["minecraft:guardian_attack_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/enchanting_table_particle.json|1758360734|{"identifier":["minecraft:enchanting_table_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/enchanting_table_particles.png"]}
+projects/ADS FPS/RP/particles/portal_east_west.json|1758360828|{"identifier":["minecraft:portal_east_west"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_dragon_egg.json|1758360748|{"identifier":["minecraft:falling_dust_dragon_egg_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/huge_explosion_lab_misc.json|1758360778|{"identifier":["minecraft:huge_explosion_lab_misc_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/explosion.png"]}
+projects/ADS FPS/RP/particles/blue_flame.json|1766483896|{"identifier":["minecraft:blue_flame_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_smoke.json|1766483892|{"identifier":["minecraft:basic_smoke_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/portal_north_south.json|1758360829|{"identifier":["minecraft:portal_north_south"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/magnesium_salts.json|1758360798|{"identifier":["minecraft:magnesium_salts_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_concrete_powder.json|1758360746|{"identifier":["minecraft:falling_dust_concrete_powder_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/dragon_breath_trail.json|1758360725|{"identifier":["minecraft:dragon_breath_trail"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/stunned.json|1758360995|{"identifier":["minecraft:stunned_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/ink.json|1758360782|{"identifier":["minecraft:ink_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/lab_table_heatblock_dust.json|1758360786|{"identifier":["minecraft:lab_table_heatblock_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/ice_evaporation.json|1757249412|{"identifier":["minecraft:ice_evaporation_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/honey_drip.json|1758360776|{"identifier":["minecraft:honey_drip_particle"],"event":["hit_ground"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/evaporation_elephant_toothpaste.json|1758360741|{"identifier":["minecraft:elephant_tooth_paste_vapor_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/rising_border_dust.json|1757249412|{"identifier":["minecraft:rising_border_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_sand.json|1758360756|{"identifier":["minecraft:falling_dust_sand_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_dust_top_snow.json|1758360761|{"identifier":["minecraft:falling_dust_top_snow_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/bubble_column_up.json|1766483908|{"identifier":["minecraft:bubble_column_up_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/redstone_wire_dust.json|1758360980|{"identifier":["minecraft:redstone_wire_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/llama_spit.json|1758360796|{"identifier":["minecraft:llama_spit_smoke"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/portal_reverse.json|1758360831|{"identifier":["minecraft:portal_reverse_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/water_drip.json|1766483920|{"identifier":["minecraft:water_drip_particle"],"event":["splash"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/knockback_roar.json|1758360784|{"identifier":["minecraft:knockback_roar_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/underwater_torch_bubble.json|1757249412|{"identifier":["minecraft:underwater_torch_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/bubble_column_down.json|1766483905|{"identifier":["minecraft:bubble_column_down_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/mycelium_dust.json|1758360814|{"identifier":["minecraft:mycelium_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/cauldronspell.json|1766483912|{"identifier":["minecraft:cauldron_spell_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/phantom_trail.json|1758360825|{"identifier":["minecraft:phantom_trail_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/squid_flee.json|1766483921|{"identifier":["minecraft:squid_flee_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/dragon_destroy_block.json|1758360729|{"identifier":["minecraft:dragon_destroy_block"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/mobspell.json|1758360811|{"identifier":["minecraft:mobspell_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/squid_ink_bubble.json|1758360991|{"identifier":["minecraft:squid_ink_bubble"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/squid_move.json|1758360992|{"identifier":["minecraft:squid_move_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/guardian_water_move.json|1758360774|{"identifier":["minecraft:guardian_water_move_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/rain_splash.json|1758360835|{"identifier":["minecraft:rain_splash_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/lava_particle.json|1758360794|{"identifier":["minecraft:lava_particle"],"event":["smoke"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/mob_block_spawn.json|1758360803|{"identifier":["minecraft:mob_block_spawn_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/redstone_torch_dust.json|1758360838|{"identifier":["minecraft:redstone_torch_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/mob_portal.json|1758360805|{"identifier":["minecraft:mob_portal"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/dragon_dying_explosion.json|1758360732|{"identifier":["minecraft:dragon_dying_explosion"],"texturePath":["projects/ADS FPS/RP/textures/particle/explosion.png"]}
+projects/ADS FPS/RP/particles/large_explosion_level.json|1758360789|{"identifier":["minecraft:large_explosion"],"texturePath":["projects/ADS FPS/RP/textures/particle/explosion.png"]}
+projects/ADS FPS/RP/particles/dolphin_move.json|1758360718|{"identifier":["minecraft:dolphin_move_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/splashpotionspell.json|1757249412|{"identifier":["minecraft:splash_spell_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/nectar_drip.json|1758360815|{"identifier":["minecraft:nectar_drip_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/redstone_repeater_dust.json|1758360836|{"identifier":["minecraft:redstone_repeater_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/dragon_breath_fire.json|1758360720|{"identifier":["minecraft:dragon_breath_fire"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/basic_bubble.json|1758360686|{"identifier":["minecraft:basic_bubble_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/obsidian_glow_dust.json|1758360822|{"identifier":["minecraft:obsidian_glow_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/silverfish_grief.json|1758360982|{"identifier":["minecraft:silverfish_grief_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/sparkler.json|1758360985|{"identifier":["minecraft:sparkler_emitter"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/falling_border_dust.json|1758360744|{"identifier":["minecraft:falling_border_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/cauldron_splash.json|1766483910|{"identifier":["minecraft:cauldron_splash_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/obsidian_tear.json|1758360824|{"identifier":["minecraft:obsidian_tear_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/note.json|1758360818|{"identifier":["minecraft:note_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/redstone_ore_dust.json|1758360832|{"identifier":["minecraft:redstone_ore_dust_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/lab_table_misc_mystical.json|1758360788|{"identifier":["minecraft:lab_table_misc_mystical_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/sponge_absorb_bubble.json|1758360987|{"identifier":["minecraft:sponge_absorb_water_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/heart.json|1757249412|{"identifier":["minecraft:heart_particle"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/portal_directional.json|1758360827|{"identifier":["minecraft:portal_directional"],"texturePath":["projects/ADS FPS/RP/textures/particle/particles.png"]}
+projects/ADS FPS/RP/particles/breaking_item_icon.json|1766483899|{"identifier":["minecraft:breaking_item_icon"],"texturePath":[]}
+projects/ADS FPS/RP/particles/breaking_item_terrain.json|1766483901|{"identifier":["minecraft:breaking_item_terrain"],"texturePath":[]}
+projects/ADS FPS/RP/particles/mobflame.json|1758360809|{"identifier":["minecraft:mobflame_emitter"],"texturePath":[]}
+projects/ADS FPS/RP/particles/mobflame_single.json|1758360807|{"identifier":["minecraft:mobflame_single"],"texturePath":[]}
+#flipbookTexture
+projects/ADS FPS/RP/textures/flipbook_textures.json|1775737348|{"texture":["still_lava","bubble_column_outer","bubble_column_up_top","bubble_column_down_top","bubble_column_mid","kelp_a","kelp_b","kelp_c","kelp_d","kelp_top","kelp_top_bulb","seagrass_tall_bot_a","seagrass_tall_bot_b","seagrass_tall_top_a","seagrass_tall_top_b"],"texturePath":["projects/ADS FPS/RP/textures/blocks/bubble_column_outer_e.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_a.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_h.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_c.png","projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_a.png","projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_d.png","projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_c.png","projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_b.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_b.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_g.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_d.png","projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_d.png","projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_c.png","projects/ADS FPS/RP/textures/blocks/bubble_column_down_top_a.png","projects/ADS FPS/RP/textures/blocks/bubble_column_outer_f.png","projects/ADS FPS/RP/textures/blocks/bubble_column_inner_a.png","projects/ADS FPS/RP/textures/blocks/bubble_column_up_top_b.png","projects/ADS FPS/RP/textures/blocks/bubble_column_inner_b.png"]}

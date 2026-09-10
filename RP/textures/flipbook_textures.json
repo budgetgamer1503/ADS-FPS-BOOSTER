@@ -1,0 +1,225 @@
+[
+    {"flipbook_texture": "textures/blocks/lava_still", "atlas_tile": "still_lava", "ticks_per_frame": 1000},
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_a",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_b",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 10000000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_c",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_d",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_e",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_f",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_g",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_outer_h",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_outer",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_up_top_a",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_up_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_up_top_b",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_up_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_up_top_c",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_up_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_up_top_d",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_up_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_down_top_a",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_down_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_down_top_b",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_down_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_down_top_c",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_down_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_down_top_d",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_down_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_inner_a",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_mid",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/bubble_column_inner_b",
+        "atlas_index": 0,
+        "atlas_tile_variant": 0,
+        "atlas_tile": "bubble_column_mid",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "blend_frames": false
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_a",
+        "atlas_tile": "kelp_a",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_b",
+        "atlas_tile": "kelp_b",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_c",
+        "atlas_tile": "kelp_c",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_d",
+        "atlas_tile": "kelp_d",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_top",
+        "atlas_tile": "kelp_top",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/kelp_top_bulb",
+        "atlas_tile": "kelp_top_bulb",
+        "ticks_per_frame": 100000,
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    },
+    {
+        "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_a",
+        "atlas_tile": "seagrass_tall_bot_a",
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "ticks_per_frame": 1000000
+    },
+    {
+        "flipbook_texture": "textures/blocks/seagrass_doubletall_bottom_b",
+        "atlas_tile": "seagrass_tall_bot_b",
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "ticks_per_frame": 1000000
+    },
+    {
+        "flipbook_texture": "textures/blocks/seagrass_doubletall_top_a",
+        "atlas_tile": "seagrass_tall_top_a",
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "ticks_per_frame": 1000000
+    },
+    {
+        "flipbook_texture": "textures/blocks/seagrass_doubletall_top_b",
+        "atlas_tile": "seagrass_tall_top_b",
+        "frames": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+        "ticks_per_frame": 10000000
+    }
+]
